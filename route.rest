@@ -1,0 +1,5 @@
+GET http://localhost:500/singer
+
+###
+
+GET http://localhost:500/singer/2
